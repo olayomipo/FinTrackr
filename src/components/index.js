@@ -5,14 +5,17 @@ import About from './About';
 import Contact from './Contact';
 
 import WalletCard from './WalletCard';
+import Switcher from './Switcher';
+
 
 export {
   Hero,
   Navbar,
-
+  Switcher,
   WalletCard,
   About,
   Contact
+  
 }
 
 // Deposit Action Sheet
